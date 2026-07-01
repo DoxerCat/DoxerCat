@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DoxerCat
 - 👀 I’m interested in automation, IoT, Smart Home, and AI
-- 🌱 I’m currently learning how to use GPT-4 and LLM
+- 🌱 I’m currently learning.....well everything.
 - 💞️ I’m looking to collaborate on anything, but you probably don't need me.
-- 📫 How to reach me, Shhhhhhhh Nope
+- 📫 How to reach me, just yell loud.
 
 <!---
 DoxerCat/DoxerCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
